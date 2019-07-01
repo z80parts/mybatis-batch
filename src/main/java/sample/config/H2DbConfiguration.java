@@ -1,4 +1,4 @@
-package sample;
+package sample.config;
 
 import javax.sql.DataSource;
 
